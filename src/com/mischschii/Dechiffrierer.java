@@ -4,6 +4,10 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ * Created by paul.schnitzeljagd@gail.com on 27.06.2017.
+ */
+
 public class Dechiffrierer {
 
     //Welch ein Missgeschick!!
