@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * Created by paul.schnitzeljagd@gail.com on 27.06.2017.
+ * Created by paul.schnitzeljagd@gmail.com on 27.06.2017.
  */
 
 public class Dechiffrierer {
